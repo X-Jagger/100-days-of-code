@@ -6,5 +6,6 @@ The log of my #100DaysOfCode challenge. Started on [August 6, Sunday, 2017].
 - read <You Don't Know JS: Types & Grammar> 
   chapter Preface to chapter Values,a fantasic book, explained clearly.
 - Started my first react challenge on [https://www.freecodecamp.org/challenges/build-a-markdown-previewer], and with the functionality done.:) keep on it wich CSS tommorrow~.
-Come on!
+
+Nice experience!
 ### Day2 August 7
