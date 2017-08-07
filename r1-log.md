@@ -9,3 +9,10 @@ The log of my #100DaysOfCode challenge. Started on [August 6, Sunday, 2017].
 
 keep on it wich CSS tomorrow~.
 ### Day2 August 7
+#### Progress:
+- read <You Don't Know JS: Types & Grammar> chapter natives.
+- learned again the responsive design. 
+- Finshed the markdown-previewer challenge ! my work :[https://github.com/X-Jagger/markdown-previewer]
+#### Thoughts:
+- Really bad at CSS, need to learn it better! I believe it's a not a tough road.
+- Learing by dealing with real challenges is way better than learning by tutorials,it force you to think again and again,and finally you will get the "ahha" moment, fantastic experience!
