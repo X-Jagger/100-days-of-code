@@ -25,3 +25,11 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 #### Thoughts:
 - Tired in the morning ,how to fix it ...
 - English is absolutely the first language a programmer should learn well ! So good to my learning.
+
+### Day4 August 9
+#### Progress:
+- read <You Don't Know JS: Types & Grammar> half of chapter Coercion,learned more about the coercion.
+- Finished [Pro MERN Stack](http://www.apress.com/in/book/9781484226520) chapter3
+#### Thoughts:
+- moring is short... so ,get up early.
+- unbalanced life cycle makes u feel more tired.
