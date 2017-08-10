@@ -33,3 +33,13 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 #### Thoughts:
 - moring is short... so ,get up early.
 - unbalanced life cycle makes u feel more tired.
+
+### Day5 August 10
+#### Progress:
+- Finished <You Don't Know JS: Types & Grammar>chapter Coercion..so much knowledge that I didn't know before.
+- Finished [Pro MERN Stack](http://www.apress.com/in/book/9781484226520) chapter4, recalled the basic react.
+- Accomplished the functionality of [Build a Camper Leaderboard](https://www.freecodecamp.org/challenges/build-a-camper-leaderboard) in 1.5 hour .
+#### Thoughts:
+- Sleep Cycle is a nice app that helps you get up early with little fatigue. Keep getting up before 8am!
+- Don't be worried about the jobs,learn well and opportunities will come to you .
+- Dealing with real challenges is of vital importance to make you really pick up something!
