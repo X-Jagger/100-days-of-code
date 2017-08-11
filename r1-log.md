@@ -43,3 +43,11 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 - Sleep Cycle is a nice app that helps you get up early with little fatigue. Keep getting up before 8am!
 - Don't be worried about the jobs,learn well and opportunities will come to you .
 - Dealing with real challenges is of vital importance to make you really pick up something!
+
+### Day6 August 11
+#### Progress:
+- Finished [Pro MERN Stack](http://www.apress.com/in/book/9781484226520) chapter5,learned Express.
+- Accomplished the style of [Build a Camper Leaderboard](https://www.freecodecamp.org/challenges/build-a-camper-leaderboard).
+#### Thoughts:
+- Imitating others' works in codepen.io is a fast way to learn CSS ~ 
+- Keep on swimming
