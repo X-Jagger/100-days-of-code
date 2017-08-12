@@ -51,3 +51,10 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 #### Thoughts:
 - Imitating others' works in codepen.io is a fast way to learn CSS ~ 
 - Keep on swimming
+
+### Day7 August 12
+#### Progress:
+- Joined the chengdu FCC offline activity for the first time 
+- learned half part of chapter mongodb
+#### Thoughts:
+- Taking part in communication activities is a little waste of time ...
