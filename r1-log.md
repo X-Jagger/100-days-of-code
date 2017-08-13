@@ -58,3 +58,10 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 - learned half part of chapter mongodb
 #### Thoughts:
 - Taking part in communication activities is a little waste of time ...
+
+### Day8 August 13
+#### Progress:
+- finished the chapter Mongo
+#### Thoughts:
+- watching R!CH cost me much time.TT
+- How about imitating realizing google doodles as a way of learning new stuff
