@@ -65,3 +65,11 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 #### Thoughts:
 - watching R!CH cost me much time.TT
 - How about imitating realizing google doodles as a way of learning new stuff
+
+### Day9 August 14
+#### Progress:
+- finished the Pro MERN chapter 7 <Modularization and Webpack> 
+- Started 3rd react challenge [Build a Recipe Box](https://www.freecodecamp.org/challenges/build-a-recipe-box)
+#### Thoughts:
+- All the configurations of webpack was so annoying.. craete-react-app was awesome!
+- realized that my understanding of HTML is so poor.. knowed little about <form>
