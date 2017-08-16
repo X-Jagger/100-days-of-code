@@ -73,3 +73,10 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 #### Thoughts:
 - All the configurations of webpack was so annoying.. craete-react-app was awesome!
 - realized that my understanding of HTML is so poor.. knowed little about <form>
+
+### Day10 August 16
+#### Progress:
+- finished the half of Pro MERN chapter 7 <React Router> 
+#### Thoughts:
+- Back home,busy with accompanying families.
+
