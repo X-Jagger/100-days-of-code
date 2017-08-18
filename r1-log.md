@@ -80,3 +80,9 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 #### Thoughts:
 - Back home,busy with accompanying families.
 
+### Day11 August 18
+#### Progress:
+- learned componenetDidupdate,location.search,URLSearchParams,router V4 has many differences.
+#### Thoughts:
+- Missed 2nd day, had a great day, BBQ with family,board games with friends.
+- It's time to get back coding and commiting.
