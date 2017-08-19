@@ -86,3 +86,9 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 #### Thoughts:
 - Missed 2nd day, had a great day, BBQ with family,board games with friends.
 - It's time to get back coding and commiting.
+
+### Day12 August 19
+#### Progress:
+- Finished chapter Router,knew how to use router in React
+#### Thoughts:
+- When something update(like router v4),Search more,read more.
