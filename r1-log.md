@@ -92,3 +92,9 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 - Finished chapter Router,knew how to use router in React
 #### Thoughts:
 - When something update(like router v4),Search more,read more.
+
+### Day13 August 20
+#### Progress:
+- learned query-string and a new way of designing forms.
+#### Thoughts:
+- Tried to ask and undestand why more.
