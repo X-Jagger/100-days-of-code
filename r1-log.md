@@ -98,3 +98,9 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 - learned query-string and a new way of designing forms.
 #### Thoughts:
 - Tried to ask and undestand why more.
+
+### Day14 August 21
+#### Progress: 
+- Add IssueEidt and Input component,learned RegEx about Date, understanded props and componentWillReceiveProps deeper
+#### Thoughts:
+- Delete or console.log the parts you don't know , and you will figure out what they are and what they are made for .
