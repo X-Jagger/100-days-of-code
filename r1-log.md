@@ -104,3 +104,23 @@ Awesome book!Very detailed and clearly! Finished the first two chapters with my 
 - Add IssueEidt and Input component,learned RegEx about Date, understanded props and componentWillReceiveProps deeper
 #### Thoughts:
 - Delete or console.log the parts you don't know , and you will figure out what they are and what they are made for .
+
+### Day15 August 22
+#### Progress: 
+- 3rd day,finally finished MERN chapter 9 Forms.
+
+completed the CRUD paradigm~  recalled stateless functional component, more about mongodb.
+- Finished reading <You Don't Know JS: Types & Grammar>, 
+
+Nice too, but too detailed and I thought many knowledge wouldn't be used in practice .
+- Listend to a live stream about the test of JS, and found that I knew little about JS...
+
+Well,recognizing my own lack of knowledge is a huge progess!
+#### Thoughts:
+- JS matters most...Need to look back it and grasp most about it: Ajax,BOM,DOM,HTTP,Event..
+
+### Day16 August 23
+#### Progress: 
+- 
+#### Thoughts:
+- 
