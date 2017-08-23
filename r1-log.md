@@ -121,6 +121,7 @@ Well,recognizing my own lack of knowledge is a huge progess!
 
 ### Day16 August 23
 #### Progress: 
-- 
+- Figured out what's the most important thing right before autumn recruit: Basic knowledge! -- JS
+- Finished reading 犀牛书 chapter 2 and half of 3.
 #### Thoughts:
-- 
+- Basic basic basic basic JS JS JS JS matters.
