@@ -125,3 +125,11 @@ Well,recognizing my own lack of knowledge is a huge progess!
 - Finished reading 犀牛书 chapter 2 and half of 3.
 #### Thoughts:
 - Basic basic basic basic JS JS JS JS matters.
+
+### Day17 August 24
+#### Progress: 
+-Finished 犀牛书3，4
+- 自己实现了深浅克隆，deep clone.,undefined转化为数字时为NaN
+#### Thoughts:
+- Lots to learn.hurry up.
+
