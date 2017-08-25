@@ -133,3 +133,9 @@ Well,recognizing my own lack of knowledge is a huge progess!
 #### Thoughts:
 - Lots to learn.hurry up.
 
+### Day18 August 25
+#### Progress: 
+-Finished reading <犀牛书 js the definitive guide> chapter 5,6
+-Finished reading <JavaScript Dom:Web Design with JavaScript and the Document Object Model> chapter 1-6
+#### Thoughts:
+-The more you learn, the less you know
