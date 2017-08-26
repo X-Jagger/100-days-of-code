@@ -139,3 +139,9 @@ Well,recognizing my own lack of knowledge is a huge progess!
 -Finished reading <JavaScript Dom:Web Design with JavaScript and the Document Object Model> chapter 1-6
 #### Thoughts:
 -The more you learn, the less you know
+
+### Day19 August 26
+#### Progress: 
+-Finished reading <犀牛书 js the definitive guide> chapter 7,8
+#### Thoughts:
+-...Tired, maybe library is a better place to learn.
