@@ -145,3 +145,15 @@ Well,recognizing my own lack of knowledge is a huge progess!
 -Finished reading <犀牛书 js the definitive guide> chapter 7,8
 #### Thoughts:
 -...Tired, maybe library is a better place to learn.
+
+### Day20 August 27
+#### Progress: 
+-Finished reading <犀牛书 js the definitive guide> half of chapter 9
+#### Thoughts:
+
+
+### Day21 August 28
+#### Progress: 
+-Finished reading <犀牛书 js the definitive guide> chapter 9 and 10 (RegExp)
+#### Thoughts:
+- Need to look back CS basic knowledge 
