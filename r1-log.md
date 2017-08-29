@@ -157,3 +157,7 @@ Well,recognizing my own lack of knowledge is a huge progess!
 -Finished reading <犀牛书 js the definitive guide> chapter 9 and 10 (RegExp)
 #### Thoughts:
 - Need to look back CS basic knowledge 
+
+### Day22 August 29
+#### Progress: 
+-Finished reading <Js Dom....> chapter 7-11
