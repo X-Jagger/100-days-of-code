@@ -161,3 +161,16 @@ Well,recognizing my own lack of knowledge is a huge progess!
 ### Day22 August 29
 #### Progress: 
 -Finished reading <Js Dom....> chapter 7-11
+
+### Day23 August 30
+#### Progress: 
+-Finished 《Js Dom 编程艺术》 last part! Nice book。
+#### Thoughts:
+- Learned more about Dom. And some arts about designing a website. 
+
+### Day24 August 31
+#### Progress: 
+-Finished <MERN> chapter bootstrap,and decorated my full-stack SPA.
+
+#### Thoughts:
+- Library is a fantasic place where you can focus on coding deeply for long.
